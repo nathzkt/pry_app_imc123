@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pry_app_imc</string>
+    <string name="txtTitulo">CALCULADORA PARA EL IMC</string>
+    <string name="txtPaciente">Ingrese el nombre</string>
+    <string name="txtPeso">Ingrese su peso</string>
+    <string name="txtEstatura">Ingrese su estatura</string>
+    <string name="btnCalcularIMC">Calcular IMC</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtIMC">IMC</string>
+    <string name="txtEstadoSalud">Estado Salud</string>
+
+
+</resources>
